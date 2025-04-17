@@ -8,7 +8,7 @@
 namespace _250408_Bingo
 {
 
-    
+    ///gitTest
 
 
     //class BingoPlace
